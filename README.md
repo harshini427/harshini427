@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshini427
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on software project
+- 👀 I’m interested in java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on software project (capstone)
 - 📫 How to reach me ...
 
 <!---
